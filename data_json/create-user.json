@@ -1,0 +1,14 @@
+{
+    "id": "null",
+    "firstName": "Dila",
+    "lastName": "alwi",
+    "age": 25,
+    "occupation": "QA Engineer",
+    "nationality": "Indonesia",
+    "hobbies": [
+      "Cooking"
+    ],
+    "gender": "Female",
+    "createdDate": "2022-12-17T12:51:37.770Z",
+    "updatedDate": "2022-12-17T12:51:37.770Z"
+  }
